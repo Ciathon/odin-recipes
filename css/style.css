@@ -1,0 +1,49 @@
+body {
+    background-color:  #bfbfbf;
+}
+
+h1 {
+    text-align: center;
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #994813;
+}
+h3 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #994813;   
+    color: black;
+
+}
+.cooking {
+    height: 150px;
+    display: block;
+    margin-left: auto;
+    margin-right: 50px;
+    width: auto;
+    
+}
+p {
+    text-size: 25px;
+
+    /* Image properties for recipe pages */
+}
+#blkbean {
+    display: block;
+    margin-left: auto;  
+    margin-right: auto;
+    width: 350px;
+    height: 350px;
+}
+#carbonara {
+    display: block;
+    margin-left: auto;  
+    margin-right: auto;
+    width: 400px;
+    height: 380px;
+}
+#macncheese {
+    display: block;
+    margin-left: auto;  
+    margin-right: auto;
+    width: 350px;
+    height: 350px;
